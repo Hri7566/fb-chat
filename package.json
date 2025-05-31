@@ -1,6 +1,6 @@
 {
   "name": "fb2-chat",
-  "version": "3.3.1",
+  "version": "3.4.0",
   "description": "Firebomb 2 Chatbox websocket (originally made by Ale32bit for SwitchCraft)",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
