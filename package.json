@@ -1,5 +1,5 @@
 {
-  "name": "fb-chat",
+  "name": "fb2-chat",
   "version": "3.3.1",
   "description": "Firebomb 2 Chatbox websocket (originally made by Ale32bit for SwitchCraft)",
   "main": "dist/index.js",
